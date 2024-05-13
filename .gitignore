@@ -1,0 +1,15 @@
+# Node & npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+/dist/
+/tmp/
+/out-tsc/
+
+# Other
+/.idea/
+/.vscode/
+/.DS_Store
+Thumbs.db
